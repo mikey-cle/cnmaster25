@@ -1,0 +1,19 @@
+body {
+   background-color: black;
+}
+
+p {
+    color: white;
+}
+
+li {
+    color: gold;
+}
+
+h2 {
+    color:gold;
+}
+
+p:hover{
+    font-size: 150%;
+}
